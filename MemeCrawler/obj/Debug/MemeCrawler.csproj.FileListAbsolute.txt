@@ -1,0 +1,14 @@
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\MemeCrawler.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\MemeCrawler.pdb
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\Repository.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\Services.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\EntityFramework.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\Repository.pdb
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\Repository.dll.config
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\Services.pdb
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\bin\Debug\EntityFramework.xml
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\obj\Debug\MemeCrawler.csprojAssemblyReference.cache
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\obj\Debug\MemeCrawler.csproj.CoreCompileInputs.cache
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\obj\Debug\MemeCrawler.csproj.CopyComplete
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\obj\Debug\MemeCrawler.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\MemeCrawler\obj\Debug\MemeCrawler.pdb

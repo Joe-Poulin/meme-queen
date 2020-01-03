@@ -1,0 +1,12 @@
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\EmailEngine\bin\Release\EmailEngine.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\EmailEngine\bin\Release\EmailEngine.pdb
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.csprojAssemblyReference.cache
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.csproj.CoreCompileInputs.cache
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.pdb
+C:\Bitbucket\MemeQueen\MemeQueen\EmailEngine\bin\Release\EmailEngine.dll
+C:\Bitbucket\MemeQueen\MemeQueen\EmailEngine\bin\Release\EmailEngine.pdb
+C:\Bitbucket\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.csprojAssemblyReference.cache
+C:\Bitbucket\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.csproj.CoreCompileInputs.cache
+C:\Bitbucket\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.dll
+C:\Bitbucket\MemeQueen\MemeQueen\EmailEngine\obj\Release\EmailEngine.pdb

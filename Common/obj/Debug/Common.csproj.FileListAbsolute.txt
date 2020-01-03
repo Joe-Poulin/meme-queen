@@ -1,0 +1,11 @@
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\Common\bin\Debug\Common.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\Common\bin\Debug\Common.pdb
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\Common\obj\Debug\Common.dll
+C:\Users\JoePoulin\Desktop\prj\MemeQueen\MemeQueen\Common\obj\Debug\Common.pdb
+C:\Bitbucket\MemeQueen\MemeQueen\Common\bin\Debug\Common.dll
+C:\Bitbucket\MemeQueen\MemeQueen\Common\bin\Debug\Common.pdb
+C:\Bitbucket\MemeQueen\MemeQueen\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Bitbucket\MemeQueen\MemeQueen\Common\obj\Debug\Common.dll
+C:\Bitbucket\MemeQueen\MemeQueen\Common\obj\Debug\Common.pdb

@@ -1,0 +1,50 @@
+<div>
+  <div class="row col-12">
+    <button class="btn btn-sm btn-success"
+      routerLink="new">
+      <i class="fas fa-plus"></i>&nbsp;Add New User
+    </button>
+  </div>
+  <div class="row col-12" style="margin-top:10px">
+    <table class="table table-bordered" style="line-height:10px">
+      <thead>
+        <tr>
+          <th scope="col">First Name</th>
+          <th scope="col">Last Name</th>
+          <th scope="col">Use Phone Number</th>
+          <th scope="col">Phone Number</th>
+          <th scope="col">Use Email Address</th>
+          <th scope="col">Email Address</th>
+          <th scope="col">Meme Time</th>
+          <th scope="col">Meme Amount</th>
+          <th scope="col"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let user of users">
+          <td>{{user.FirstName}}</td>
+          <td>{{user.LastName}}</td>
+          <td class="icon-cell">
+            <i *ngIf="user.UsePhoneNumber" class="fas fa-check-circle" style="color:green"></i>
+            <i *ngIf="!user.UsePhoneNumber" class="fas fa-times-circle" style="color:red"></i>
+          </td>
+          <td>{{user.PhoneNumber}}</td>
+          <td class="icon-cell">
+            <i *ngIf="user.UseEmailAddress" class="fas fa-check-circle" style="color:green"></i>
+            <i *ngIf="!user.UseEmailAddress" class="fas fa-times-circle" style="color:red"></i>
+            </td>
+          <td>{{user.EmailAddress}}</td>
+          <td>{{user.MemeTime | date:'shortTime'}}</td>
+          <td>{{user.MemeAmount}}</td>
+          <td style="padding:0px; vertical-align: middle">
+            <button class="btn btn-sm btn-info"
+              style="height:100%; width:100%;"
+              (click)="goToEditUser(user.Id)">Edit
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>

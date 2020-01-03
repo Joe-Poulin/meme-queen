@@ -1,0 +1,92 @@
+<div class="container col-5">
+  <h3 *ngIf="!isEdit">Add User</h3>
+  <h3 *ngIf="isEdit">Edit User</h3>
+  <hr>
+  <form [formGroup]="userForm">
+    
+    <div class="row col-12 form-row">
+      <!--First Name-->
+      <div class="col-4 form-label">
+        First Name
+      </div>
+      <div class="col-8">
+        <input type="text"
+          class="form-control" 
+          id="firstname"
+          formControlName="firstName"
+          required>
+      </div>
+    </div>
+
+    <div class="row col-12 form-row">
+      <!--Last Name-->
+      <div class="col-4 form-label">
+        Last Name
+      </div>
+      <div class="col-8">
+        <input type="text" 
+          class="form-control"
+          id="lastname" 
+          formControlName="lastName"
+          required>
+      </div>
+    </div>
+      
+    <div class="row col-12 form-row">
+      <!--Phone Number-->
+      <div class="col-4 form-label">
+        Phone Number
+      </div>
+      <div class="col-6">
+        <input type="text" 
+          class="form-control" 
+          id="phonenumber" 
+          formControlName="phoneNumber"
+          required>
+      </div>
+      <div class="col-2 form-label">
+        <div class="slideThree">  
+          <input type="checkbox" value="None" id="slideThree" name="check" formControlName="usePhoneNumber" />
+          <label for="slideThree"></label>
+        </div>
+      </div>
+    </div>
+
+          
+    <div class="row col-12 form-row">
+      <!--Email Address-->
+      <div class="col-4 form-label">
+          Email Address
+      </div>
+      <div class="col-6">
+        <input type="text" 
+          class="form-control" 
+          id="emailaddress" 
+          formControlName="emailAddress"
+          required>
+      </div>
+      <div class="col-2 form-label">
+        <div class="slideThree">  
+          <input type="checkbox" value="None" id="slideThree1" name="check1"  formControlName="useEmailAddress" />
+          <label for="slideThree1"></label>
+        </div>
+      </div>
+    </div>
+
+    <div class="row col-12 form-row">
+      <!--Meme Time-->
+      <div class="col-4 form-label">
+          Meme Time
+      </div>
+      <div class="col-4">
+        <input type="time"
+          formControlName="convertedMemeTime"
+          class="form-control" />
+      </div>
+    </div>
+ 
+  </form>
+  <hr>
+  <button class="btn btn-sm" style="margin-right:5px;" (click)="goToUsers()">Cancel</button>
+  <button class="btn btn-sm btn-success" (click)="save()">Save</button>
+</div>
